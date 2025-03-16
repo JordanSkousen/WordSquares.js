@@ -13,9 +13,9 @@ const SIZE_W = 5;
 //Height of the word grid
 const SIZE_H = 5;
 //Filter horizontal words to be in the top-N (or 0 for all words)
-const MIN_FREQ_W = 15000;
+const MIN_FREQ_W = 20000;
 //Filter vertical words to be in the top-N (or 0 for all words)
-const MIN_FREQ_H = 15000;
+const MIN_FREQ_H = 20000;
 //Only print solutions with all unique words (only for square grids)
 const UNIQUE = true;
 //Diagonals must also be words (only for square grids)

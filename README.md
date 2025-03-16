@@ -16,3 +16,5 @@ To use this solver, you'll need a list of valid words and a word frequency list.
 [NGram Viewer Frequencies](https://www.kaggle.com/datasets/wheelercode/dictionary-word-frequency)
 
 You'll need to update the `DICTIONARY` and `FREQ_FILTER` paths to reference these files. These and other parameters are found on the top of `index.js`. Modify these to try different kinds of word grids. Basic documentation is provided in this file.
+
+Finally, `npm run start` or `node index.js` to run it.
