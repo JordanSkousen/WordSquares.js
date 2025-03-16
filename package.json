@@ -1,0 +1,11 @@
+{
+  "name": "WordSquares.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JordanSkousen/WordSquares.git",
+  "author": "HackerPoet and JordanSkousen",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

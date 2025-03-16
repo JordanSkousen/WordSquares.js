@@ -1,5 +1,8 @@
-# WordSquares
-A simple C++ solver for dense word grids.
+# WordSquares.js
+
+*JavaScript port of HackerPoet's [WordSquares](https://github.com/HackerPoet/WordSquares) by Jordan Skousen.*
+
+A simple JavaScript solver for dense word grids.
 
 See this [YouTube Video](https://youtu.be/zWIsnrxL-Zc) for the best explanation.
 
@@ -12,4 +15,4 @@ To use this solver, you'll need a list of valid words and a word frequency list.
 
 [NGram Viewer Frequencies](https://www.kaggle.com/datasets/wheelercode/dictionary-word-frequency)
 
-You'll need to update the `DICTIONARY` and `FREQ_FILTER` paths to reference these files. These and other parameters are found on the top of `main.cpp`. Modify these to try different kinds of word grids. Basic documentation is provided in this file.
+You'll need to update the `DICTIONARY` and `FREQ_FILTER` paths to reference these files. These and other parameters are found on the top of `index.js`. Modify these to try different kinds of word grids. Basic documentation is provided in this file.
