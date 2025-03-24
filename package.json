@@ -1,6 +1,6 @@
 {
   "name": "wordsquares",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "bin.js",
   "repository": "https://github.com/JordanSkousen/WordSquares.git",
   "author": "HackerPoet and JordanSkousen",
