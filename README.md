@@ -1,13 +1,14 @@
 # WordSquares.js
 
-*This is a JavaScript port of HackerPoet's [WordSquares](https://github.com/HackerPoet/WordSquares), with more features and a command line interface.*
+*This is a JavaScript port of HackerPoet (aka CodeParade)'s [WordSquares](https://github.com/HackerPoet/WordSquares), with more features and a command line interface.*
 
 A simple JavaScript solver for dense word grids.
 
-See this [YouTube Video](https://youtu.be/zWIsnrxL-Zc) for the best explanation.
+See CodeParade's [YouTube video](https://youtu.be/zWIsnrxL-Zc) for the best explanation on WordSquares.
 
 ## Usage
-To use this solver, you'll first need a list of valid words and a word frequency list. If you'd like to use the same files as shown in the video, follow these links:
+
+To use this solver, you'll first need a list of valid words and a word frequency list. If you'd like to use the same files as shown in CodeParade's video, follow these links:
 
 - Dictionary file: [Scrabble Words List](https://raw.githubusercontent.com/andrewchen3019/wordle/refs/heads/main/Collins%20Scrabble%20Words%20(2019).txt)
 - Frequencies file: [NGram Viewer Frequencies](https://www.kaggle.com/datasets/wheelercode/dictionary-word-frequency)
